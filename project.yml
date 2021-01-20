@@ -1,0 +1,4 @@
+packages:
+  - name: ncovstats
+    actions:
+      - name: worldwide
